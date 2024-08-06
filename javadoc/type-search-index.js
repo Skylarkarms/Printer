@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Printer.Chrono"},{"p":"<Unnamed>","l":"Printer.Editor"},{"p":"<Unnamed>","l":"Printer.Export"},{"p":"<Unnamed>","l":"Printer.Chrono.Format"},{"p":"<Unnamed>","l":"Printer.Editor.Line"},{"p":"<Unnamed>","l":"Printer"}];updateSearchResults();
